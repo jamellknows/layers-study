@@ -1,0 +1,6 @@
+CustomQuadTwoModel(
+  (layer1): CustomQuadraticTwoLayer()
+  (layer2): CustomQuadraticTwoLayer()
+  (output_layer): CustomQuadraticTwoLayer()
+  (relu): ReLU()
+)

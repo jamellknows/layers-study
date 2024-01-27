@@ -1,0 +1,6 @@
+CustomAngleModel(
+  (layer1): CustomAngleLayer()
+  (layer2): CustomAngleLayer()
+  (output_layer): CustomAngleLayer()
+  (relu): ReLU()
+)

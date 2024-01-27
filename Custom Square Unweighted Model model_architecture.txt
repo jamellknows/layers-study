@@ -1,0 +1,6 @@
+CustomSquareUnweightedModel(
+  (layer1): CustomSquareUnweightedLayer()
+  (layer2): CustomSquareUnweightedLayer()
+  (output_layer): CustomSquareUnweightedLayer()
+  (relu): ReLU()
+)
